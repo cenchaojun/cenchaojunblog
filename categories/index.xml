@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Even - A super concise theme for Hugo</title>
+    <title>Categories on </title>
     <link>https://cenchaojun.github.io/cenchaojunblog/categories/</link>
-    <description>Recent content in Categories on Even - A super concise theme for Hugo</description>
+    <description>Recent content in Categories on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Tue, 10 Jul 2018 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://cenchaojun.github.io/cenchaojunblog/categories/index.xml" rel="self" type="application/rss+xml" />
@@ -35,6 +35,60 @@
       <pubDate>Tue, 10 Jul 2018 00:00:00 +0800</pubDate>
       
       <guid>https://cenchaojun.github.io/cenchaojunblog/categories/theme-preview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>aliquam auctor</title>
+      <link>https://cenchaojun.github.io/cenchaojunblog/categories/aliquam-auctor/</link>
+      <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://cenchaojun.github.io/cenchaojunblog/categories/aliquam-auctor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>do</title>
+      <link>https://cenchaojun.github.io/cenchaojunblog/categories/do/</link>
+      <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://cenchaojun.github.io/cenchaojunblog/categories/do/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>facilisi odio</title>
+      <link>https://cenchaojun.github.io/cenchaojunblog/categories/facilisi-odio/</link>
+      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://cenchaojun.github.io/cenchaojunblog/categories/facilisi-odio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>id</title>
+      <link>https://cenchaojun.github.io/cenchaojunblog/categories/id/</link>
+      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://cenchaojun.github.io/cenchaojunblog/categories/id/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>diam aliqua</title>
+      <link>https://cenchaojun.github.io/cenchaojunblog/categories/diam-aliqua/</link>
+      <pubDate>Sat, 06 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://cenchaojun.github.io/cenchaojunblog/categories/diam-aliqua/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fringilla</title>
+      <link>https://cenchaojun.github.io/cenchaojunblog/categories/fringilla/</link>
+      <pubDate>Sat, 06 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://cenchaojun.github.io/cenchaojunblog/categories/fringilla/</guid>
       <description></description>
     </item>
     
