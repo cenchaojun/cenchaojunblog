@@ -1,67 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on </title>
-    <link>https://cenchaojun.github.io/cenchaojunblog/categories/</link>
-    <description>Recent content in Categories on </description>
+    <title>Categories on Pure theme for Hugo</title>
+    <link>https://example.com/categories/</link>
+    <description>Recent content in Categories on Pure theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 23 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://cenchaojun.github.io/cenchaojunblog/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>aliquam auctor</title>
-      <link>https://cenchaojun.github.io/cenchaojunblog/categories/aliquam-auctor/</link>
-      <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
+      <title>syntax</title>
+      <link>https://example.com/categories/syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cenchaojun.github.io/cenchaojunblog/categories/aliquam-auctor/</guid>
+      <guid>https://example.com/categories/syntax/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>do</title>
-      <link>https://cenchaojun.github.io/cenchaojunblog/categories/do/</link>
-      <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
+      <title>themes</title>
+      <link>https://example.com/categories/themes/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cenchaojun.github.io/cenchaojunblog/categories/do/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>facilisi odio</title>
-      <link>https://cenchaojun.github.io/cenchaojunblog/categories/facilisi-odio/</link>
-      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://cenchaojun.github.io/cenchaojunblog/categories/facilisi-odio/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>id</title>
-      <link>https://cenchaojun.github.io/cenchaojunblog/categories/id/</link>
-      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://cenchaojun.github.io/cenchaojunblog/categories/id/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>diam aliqua</title>
-      <link>https://cenchaojun.github.io/cenchaojunblog/categories/diam-aliqua/</link>
-      <pubDate>Sat, 06 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://cenchaojun.github.io/cenchaojunblog/categories/diam-aliqua/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>fringilla</title>
-      <link>https://cenchaojun.github.io/cenchaojunblog/categories/fringilla/</link>
-      <pubDate>Sat, 06 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://cenchaojun.github.io/cenchaojunblog/categories/fringilla/</guid>
+      <guid>https://example.com/categories/themes/</guid>
       <description></description>
     </item>
     
