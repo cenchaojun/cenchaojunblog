@@ -3,8 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://cenchaojun.github.io/cenchaojunblog/post/even-preview/</loc>
+    <lastmod>2018-07-10T00:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://cenchaojun.github.io/cenchaojunblog/about/</loc>
     <lastmod>2017-08-28T21:41:52+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://cenchaojun.github.io/cenchaojunblog/categories/</loc>
+    <lastmod>2018-11-05T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://cenchaojun.github.io/cenchaojunblog/categories/category-2/</loc>
+    <lastmod>2018-07-10T00:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://cenchaojun.github.io/cenchaojunblog/categories/category-3/</loc>
+    <lastmod>2018-07-10T00:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -24,6 +52,41 @@
   </url>
   
   <url>
+    <loc>https://cenchaojun.github.io/cenchaojunblog/tags/preview/</loc>
+    <lastmod>2018-11-05T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://cenchaojun.github.io/cenchaojunblog/tags/tag-3/</loc>
+    <lastmod>2018-07-10T00:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://cenchaojun.github.io/cenchaojunblog/tags/</loc>
+    <lastmod>2018-11-05T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://cenchaojun.github.io/cenchaojunblog/tags/theme-preview/</loc>
+    <lastmod>2018-07-10T00:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://cenchaojun.github.io/cenchaojunblog/categories/theme-preview/</loc>
+    <lastmod>2018-07-10T00:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://cenchaojun.github.io/cenchaojunblog/post/hidden-post/</loc>
     <lastmod>2018-03-08T22:01:19+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -33,13 +96,6 @@
   <url>
     <loc>https://cenchaojun.github.io/cenchaojunblog/post/english-preview/</loc>
     <lastmod>2017-08-31T15:43:48+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://cenchaojun.github.io/cenchaojunblog/categories/</loc>
-    <lastmod>2018-11-05T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -59,22 +115,8 @@
   </url>
   
   <url>
-    <loc>https://cenchaojun.github.io/cenchaojunblog/tags/preview/</loc>
-    <lastmod>2018-11-05T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://cenchaojun.github.io/cenchaojunblog/tags/tag-2/</loc>
     <lastmod>2017-08-31T15:43:48+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://cenchaojun.github.io/cenchaojunblog/tags/</loc>
-    <lastmod>2018-11-05T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -94,14 +136,14 @@
   </url>
   
   <url>
-    <loc>https://cenchaojun.github.io/cenchaojunblog/tags/%E6%97%A5%E6%9C%AC%E8%AA%9E/</loc>
+    <loc>https://cenchaojun.github.io/cenchaojunblog/categories/%E6%97%A5%E6%9C%AC%E8%AA%9E/</loc>
     <lastmod>2017-08-30T01:53:34+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://cenchaojun.github.io/cenchaojunblog/categories/%E6%97%A5%E6%9C%AC%E8%AA%9E/</loc>
+    <loc>https://cenchaojun.github.io/cenchaojunblog/tags/%E6%97%A5%E6%9C%AC%E8%AA%9E/</loc>
     <lastmod>2017-08-30T01:53:34+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
