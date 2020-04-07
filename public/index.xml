@@ -1,41 +1,70 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <link>https://cenchaojun.github.io/cenchaojunblog/</link>
-    <description>Recent content on </description>
+    <title>Pure theme for Hugo</title>
+    <link>https://example.com/</link>
+    <description>Recent content on Pure theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 23 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Feb 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://cenchaojun.github.io/cenchaojunblog/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>vestibulum vitae dictum aliqua phasellus magnis at</title>
-      <link>https://cenchaojun.github.io/cenchaojunblog/blog/post_1/</link>
-      <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
+      <title>Markdown Syntax Guide</title>
+      <link>https://example.com/2019/03/markdown-syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cenchaojun.github.io/cenchaojunblog/blog/post_1/</guid>
-      <description>eu velit magna aliqua hendrerit Cursus non odio nam suspendisse mollis tempus tincidunt, cursus praesent facilisi elementum etiam rhoncus tempor. At penatibus ultrices nulla phasellus mi quis luctus felis ultricies. Urna tempus ac consequat sem sed curabitur justo, quam suspendisse cursus aenean integer tellus consectetur. Sed bibendum hendrerit volutpat fames libero nisl dui, nunc vivamus augue posuere luctus scelerisque ultrices. Do pretium consectetur vestibulum lacinia eget do semper, varius viverra scelerisque madssa semper venenatis cras.</description>
+      <guid>https://example.com/2019/03/markdown-syntax/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>enim ultricies dolore metus ac eiusmod interdum</title>
-      <link>https://cenchaojun.github.io/cenchaojunblog/blog/post_2/</link>
-      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+      <title>Rich Content</title>
+      <link>https://example.com/2019/03/rich-content/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cenchaojun.github.io/cenchaojunblog/blog/post_2/</guid>
-      <description>non tempor mauris elementum semper Interdum dolor sit etiam aenean ac fermentum auctor cursus nulla tellus purus justo. Ullamcorper elit do tincidunt auctor sit leo, pulvinar scelerisque do fringilla nisi porttitor fermentum. Tellus elit mauris lobortis iaculis mus morbi nunc lacus. Velit placerat facilisis varius odio purus sociis elementum morbi. Dignissim congue nulla diam aenean mi commodo quisque egestas amet mattis posuere lobortis. Tristique laoreet mus diam tellus vestibulum scelerisque ipsum, rhoncus mollis sed consequat natoque eget sem.</description>
+      <guid>https://example.com/2019/03/rich-content/</guid>
+      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>luctus enim ultricies auctor pulvinar nam etiam</title>
-      <link>https://cenchaojun.github.io/cenchaojunblog/blog/post_3/</link>
-      <pubDate>Sat, 06 Jan 2018 00:00:00 +0000</pubDate>
+      <title>Placeholder Text</title>
+      <link>https://example.com/2019/03/placeholder-text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cenchaojun.github.io/cenchaojunblog/blog/post_3/</guid>
-      <description>donec lacinia eleifend sem a Pulvinar tempor ultrices amet praesent aliquet non magnis euismod elit venenatis. Aliqua consequat tristique erat nulla sit risus aliqua posuere. Potenti natoque augue proin accimsan risus scelerisque id integer curabitur mattis amet quisque. Aliquet porta sit sapien natoque sed fringilla, madssa suspendisse vivamus placerat sociis condimentum ridiculus. Natoque egestas non lectus pellentesque nunc mattis eu ridiculus pretium maecenas ligula. Gravida facilisis sem mollis sagittis aliquet ornare bibendum, leo nec morbi tortor diam maecenas tempor.</description>
+      <guid>https://example.com/2019/03/placeholder-text/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
+pectora summo.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Math Typesetting</title>
+      <link>https://example.com/2019/03/math-typesetting/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/2019/03/math-typesetting/</guid>
+      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Emoji Support</title>
+      <link>https://example.com/2019/03/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/2019/03/emoji-support/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Hugo makes use of a variety of open source projects including:
+ https://github.</description>
     </item>
     
   </channel>
