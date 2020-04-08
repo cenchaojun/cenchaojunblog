@@ -1,402 +1,323 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
+<!DOCTYPE HTML>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-    <title>
-        Pure theme for Hugo</title>
-    <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <meta name="viewport"
-    content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, minimal-ui">
-  <meta name="renderer" content="webkit">
-  <meta http-equiv="Cache-Control" content="no-transform" />
-  <meta http-equiv="Cache-Control" content="no-siteapp" />
-  <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-status-bar-style" content="black">
-  <meta name="format-detection" content="telephone=no,email=no,adress=no">
-  
-  <meta name="theme-color" content="#000000" />
-  
-  <meta http-equiv="window-target" content="_top" />
-  
-  
-  
-  <meta name="generator" content="Hugo 0.68.3 with theme pure" />
-  <title>Pure theme for Hugo</title>
-  
-  <link rel="alternate" type="application/rss+xml" href="https://example.com/categories/index.xml" title="Pure theme for Hugo" />
-  
-  <link rel="stylesheet" href="https://example.com/css/style.min.c4bc7071f132c964c2116bca53b392933f377e5ca7b7051ed245187c621a2d3e.css">
-  
-  <link rel="stylesheet" href="https://cdn.staticfile.org/highlight.js/9.15.10/styles/github.min.css" async>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.4.2/tocbot.css" async>
-  <meta property="og:title" content="Categories" />
-<meta property="og:description" content="" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="https://example.com/categories/" />
-<meta property="og:updated_time" content="2019-03-11T00:00:00+00:00" />
-<meta itemprop="name" content="Categories">
-<meta itemprop="description" content=""><meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Categories"/>
-<meta name="twitter:description" content=""/>
-
-  <!--[if lte IE 9]>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/classlist/1.1.20170427/classList.min.js"></script>
-    <![endif]-->
-
-  <!--[if lt IE 9]>
-      <script src="https://cdn.jsdelivr.net/npm/html5shiv@3.7.3/dist/html5shiv.min.js"></script>
-      <script src="https://cdn.jsdelivr.net/npm/respond.js@1.4.2/dest/respond.min.js"></script>
-    <![endif]-->
-
-</head>
-  </head>
-
-  
-  
-
-  <body class="main-center theme-black" itemscope itemtype="http://schema.org/WebPage"><header class="header" itemscope itemtype="http://schema.org/WPHeader">
-    <div class="slimContent">
-      <div class="navbar-header">
-        <div class="profile-block text-center">
-          <a id="avatar" href="https://github.com/xiaoheiAh" target="_blank">
-            <img class="img-circle img-rotate" src="https://example.com/avatar.png" width="200" height="200">
-          </a>
-          <h2 id="name" class="hidden-xs hidden-sm">xiaoheiAh</h2>
-          <h3 id="title" class="hidden-xs hidden-sm hidden-md">author title</h3>
-          <small id="location" class="text-muted hidden-xs hidden-sm"><i class="icon icon-map-marker"></i>Shanghai, China</small>
-        </div><div class="search" id="search-form-wrap">
-    <form class="search-form sidebar-form">
-        <div class="input-group">
-            <input type="text" class="search-form-input form-control" placeholder="Search" />
-            <span class="input-group-btn">
-                <button type="submit" class="search-form-submit btn btn-flat" onclick="return false;"><i
-                        class="icon icon-search"></i></button>
-            </span>
-        </div>
-        <div class="ins-search">
-            <div class="ins-search-mask"></div>
-            <div class="ins-search-container">
-                <div class="ins-input-wrapper">
-                    <input type="text" class="ins-search-input" placeholder="Type something..."
-                        x-webkit-speech />
-                    <button type="button" class="close ins-close ins-selectable" data-dismiss="modal"
-                        aria-label="Close"><span aria-hidden="true">×</span></button>
-                </div>
-                <div class="ins-section-wrapper">
-                    <div class="ins-section-container"></div>
-                </div>
-            </div>
-        </div>
-    </form>
-</div>
-        <button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target="#main-navbar" aria-controls="main-navbar" aria-expanded="false">
-          <span class="sr-only">Toggle navigation</span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-        </button>
-      </div>
-      <nav id="main-navbar" class="collapse navbar-collapse" itemscope itemtype="http://schema.org/SiteNavigationElement" role="navigation">
-        <ul class="nav navbar-nav main-nav">
-            <li class="menu-item menu-item-home">
-                <a href="/">
-                    <i class="icon icon-home-fill"></i>
-                  <span class="menu-title">Home</span>
-                </a>
-            </li>
-            <li class="menu-item menu-item-archives">
-                <a href="/posts/">
-                    <i class="icon icon-archives-fill"></i>
-                  <span class="menu-title">Archives</span>
-                </a>
-            </li>
-            <li class="menu-item menu-item-categories">
-                <a href="/categories/">
-                    <i class="icon icon-folder"></i>
-                  <span class="menu-title">Categories</span>
-                </a>
-            </li>
-            <li class="menu-item menu-item-tags">
-                <a href="/tags/">
-                    <i class="icon icon-tags"></i>
-                  <span class="menu-title">Tags</span>
-                </a>
-            </li>
-            <li class="menu-item menu-item-about">
-                <a href="/about/">
-                    <i class="icon icon-cup-fill"></i>
-                  <span class="menu-title">About</span>
-                </a>
-            </li>
-        </ul>
-      </nav>
-    </div>
-  </header>
-
-<aside class="sidebar" itemscope itemtype="http://schema.org/WPSideBar">
-  <div class="slimContent">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" /> 
+    <title>Categories - 主标题</title>
+    <meta name="keywords" content="关键词1，关键词2">
     
-      <div class="widget">
-    <h3 class="widget-title">Board</h3>
-    <div class="widget-body">
-        <div id="board">
-            <div class="content"><p>enjoy~</p>
-            </div>
-        </div>
-    </div>
+    <meta property="og:title" content="Categories">
+    <meta property="og:site_name" content="主标题">
+    <meta property="og:image" content="/img/author.jpg"> 
+    <meta name="title" content="Categories - 主标题" />
+    <meta name="description" content="描述"> 
+    <link rel="alternate" href="https://cenchaojun.github.io/cenchaojunblog/categories/" title="主标题" type="application/rss+xml" />
+    
+    <link rel="shortcut icon" href="https://cenchaojun.github.io/cenchaojunblog/img/github.ico" />
+    <link rel="apple-touch-icon" href="https://cenchaojun.github.io/cenchaojunblog/img/github.png" />
+    <link rel="apple-touch-icon-precomposed" href="https://cenchaojun.github.io/cenchaojunblog/img/github.png" />
+    
+    <link href="https://cenchaojun.github.io/cenchaojunblog/js/vendor/font-awesome/css/font-awesome.min.css?v=4.6.2" rel="stylesheet" type="text/css" />
+    
+    <link href="https://cenchaojun.github.io/cenchaojunblog/css/main.css" rel="stylesheet" type="text/css" />
+    <link href="https://cenchaojun.github.io/cenchaojunblog/css/syntax.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" id="hexo.configuration">
+  var NexT = window.NexT || {};
+  var CONFIG = {
+    scheme: 'Pisces',
+    sidebar: {"position":"left","display":"post"},
+    fancybox: false, 
+    motion: true
+  };
+</script>
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" lang="zh-Hans">
+<div class="container one-collumn sidebar-position-left   ">
+    <div class="headband"></div>
+
+    <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"> <div class="site-meta  custom-logo ">
+
+  <div class="custom-logo-site-title">
+    <a href="https://cenchaojun.github.io/cenchaojunblog/"  class="brand" rel="start">
+      <span class="logo-line-before"><i></i></span>
+      <span class="site-title">主标题</span>
+      <span class="logo-line-after"><i></i></span>
+    </a>
+  </div>
+  <p class="site-subtitle">副标题</p>
 </div>
 
-      <div class="widget">
-    <h3 class="widget-title"> Categories</h3>
-    <div class="widget-body">
-        <ul class="category-list">
-            <li class="category-list-item"><a href="https://example.com/categories/syntax/" class="category-list-link">syntax</a><span class="category-list-count">1</span></li>
-            <li class="category-list-item"><a href="https://example.com/categories/themes/" class="category-list-link">themes</a><span class="category-list-count">1</span></li>
-        </ul>
-    </div>
+<div class="site-nav-toggle">
+  <button>
+    <span class="btn-bar"></span>
+    <span class="btn-bar"></span>
+    <span class="btn-bar"></span>
+  </button>
 </div>
-      <div class="widget">
-    <h3 class="widget-title"> Tags</h3>
-    <div class="widget-body">
-        <ul class="tag-list">
-            
-            
-            <li class="tag-list-item"><a href="https://example.com/tags/css/" class="tag-list-link">css</a><span
-                    class="tag-list-count">1</span></li>
-            
-            
-            <li class="tag-list-item"><a href="https://example.com/tags/emoji/" class="tag-list-link">emoji</a><span
-                    class="tag-list-count">1</span></li>
-            
-            
-            <li class="tag-list-item"><a href="https://example.com/tags/html/" class="tag-list-link">html</a><span
-                    class="tag-list-count">1</span></li>
-            
-            
-            <li class="tag-list-item"><a href="https://example.com/tags/index/" class="tag-list-link">index</a><span
-                    class="tag-list-count">1</span></li>
-            
-            
-            <li class="tag-list-item"><a href="https://example.com/tags/markdown/" class="tag-list-link">markdown</a><span
-                    class="tag-list-count">2</span></li>
-            
-            
-            <li class="tag-list-item"><a href="https://example.com/tags/privacy/" class="tag-list-link">privacy</a><span
-                    class="tag-list-count">1</span></li>
-            
-            
-            <li class="tag-list-item"><a href="https://example.com/tags/shortcodes/" class="tag-list-link">shortcodes</a><span
-                    class="tag-list-count">1</span></li>
-            
-            
-            <li class="tag-list-item"><a href="https://example.com/tags/text/" class="tag-list-link">text</a><span
-                    class="tag-list-count">1</span></li>
-            
-            
-            <li class="tag-list-item"><a href="https://example.com/tags/themes/" class="tag-list-link">themes</a><span
-                    class="tag-list-count">1</span></li>
-            
-        </ul>
 
-    </div>
-</div>
+<nav class="site-nav">
+    <ul id="menu" class="menu">
       
-<div class="widget">
-    <h3 class="widget-title">Recent Posts</h3>
-    <div class="widget-body">
-        <ul class="recent-post-list list-unstyled no-thumbnail">
-            <li>
-                <div class="item-inner">
-                    <p class="item-title">
-                        <a href="https://example.com/2019/03/markdown-syntax/" class="title">Markdown Syntax Guide</a>
-                    </p>
-                    <p class="item-date">
-                        <time datetime="2019-03-11 00:00:00 &#43;0000 UTC" itemprop="datePublished">2019-03-11</time>
-                    </p>
-                </div>
-            </li>
-            <li>
-                <div class="item-inner">
-                    <p class="item-title">
-                        <a href="https://example.com/2019/03/rich-content/" class="title">Rich Content</a>
-                    </p>
-                    <p class="item-date">
-                        <time datetime="2019-03-10 00:00:00 &#43;0000 UTC" itemprop="datePublished">2019-03-10</time>
-                    </p>
-                </div>
-            </li>
-            <li>
-                <div class="item-inner">
-                    <p class="item-title">
-                        <a href="https://example.com/2019/03/placeholder-text/" class="title">Placeholder Text</a>
-                    </p>
-                    <p class="item-date">
-                        <time datetime="2019-03-09 00:00:00 &#43;0000 UTC" itemprop="datePublished">2019-03-09</time>
-                    </p>
-                </div>
-            </li>
-            <li>
-                <div class="item-inner">
-                    <p class="item-title">
-                        <a href="https://example.com/2019/03/math-typesetting/" class="title">Math Typesetting</a>
-                    </p>
-                    <p class="item-date">
-                        <time datetime="2019-03-08 00:00:00 &#43;0000 UTC" itemprop="datePublished">2019-03-08</time>
-                    </p>
-                </div>
-            </li>
-            <li>
-                <div class="item-inner">
-                    <p class="item-title">
-                        <a href="https://example.com/2019/03/emoji-support/" class="title">Emoji Support</a>
-                    </p>
-                    <p class="item-date">
-                        <time datetime="2019-03-05 00:00:00 &#43;0000 UTC" itemprop="datePublished">2019-03-05</time>
-                    </p>
-                </div>
-            </li>
-        </ul>
-    </div>
+      
+        <li class="menu-item ">
+          <a href="https://cenchaojun.github.io/cenchaojunblog/" rel="section">
+              <i class="menu-item-icon fa fa-fw fa-home"></i> <br />首页
+          </a>
+        </li>
+      
+        <li class="menu-item ">
+          <a href="https://cenchaojun.github.io/cenchaojunblog/about/" rel="section">
+              <i class="menu-item-icon fa fa-fw fa-user"></i> <br />关于
+          </a>
+        </li>
+      
+        <li class="menu-item menu-item-active">
+          <a href="https://cenchaojun.github.io/cenchaojunblog/categories/" rel="section">
+              <i class="menu-item-icon fa fa-fw fa-folder"></i> <br />分类
+          </a>
+        </li>
+      
+        <li class="menu-item ">
+          <a href="https://cenchaojun.github.io/cenchaojunblog/tags/" rel="section">
+              <i class="menu-item-icon fa fa-fw fa-tags"></i> <br />标签
+          </a>
+        </li>
+      
+        <li class="menu-item ">
+          <a href="https://cenchaojun.github.io/cenchaojunblog/post/" rel="section">
+              <i class="menu-item-icon fa fa-fw fa-archive"></i> <br />归档
+          </a>
+        </li>
+      
+      <li class="menu-item menu-item-search">
+        <a href="javascript:;" class="popup-trigger"> <i class="menu-item-icon fa fa-search fa-fw"></i> <br /> 搜索</a>
+      </li>
+    </ul>
+    <div class="site-search">
+      <div class="popup">
+ <span class="search-icon fa fa-search"></span>
+ <input type="text" id="local-search-input">
+ <div id="local-search-result"></div>
+ <span class="popup-btn-close">close</span>
 </div>
+
+    </div>
+</nav>
+
+ </div>
+    </header>
+
+    <main id="main" class="main">
+      <div class="main-inner">
+
+
+            
+<div class="content-wrap">
+    <div id="content" class="content">
+<div id="posts" class="posts-expand">
+  <div class="post-block page" style="opacity: 1; display: block;">
+    
+     <div class="category-all-page">
+        <div class="category-all-title">
+            目前共计 3 个分类
+        </div>
+        <div class="category-all">
+          <ul class="category-list">
+               
+              <li class="category-list-item">
+                  <a class="category-list-link" href="https://cenchaojun.github.io/cenchaojunblog/categories/AnotherCategory">AnotherCategory</a>
+              <span class="category-list-count"><sup>1</sup></span>
+              </li>
+              
+              <li class="category-list-item">
+                  <a class="category-list-link" href="https://cenchaojun.github.io/cenchaojunblog/categories/tech">tech</a>
+              <span class="category-list-count"><sup>1</sup></span>
+              </li>
+              
+              <li class="category-list-item">
+                  <a class="category-list-link" href="https://cenchaojun.github.io/cenchaojunblog/categories/%E5%88%86%E7%B1%BB%E5%90%8D">分类名</a>
+              <span class="category-list-count"><sup>1</sup></span>
+              </li>
+              
+          </ul>
+        </div>
+      </div>
+      
+      
+      
+  </div>
+</div>
+</div>
+</div>
+
+
+
+        <div class="sidebar-toggle">
+  <div class="sidebar-toggle-line-wrap">
+    <span class="sidebar-toggle-line sidebar-toggle-line-first"></span>
+    <span class="sidebar-toggle-line sidebar-toggle-line-middle"></span>
+    <span class="sidebar-toggle-line sidebar-toggle-line-last"></span>
+  </div>
+</div>
+<aside id="sidebar" class="sidebar">
+  <div class="sidebar-inner">
+
+    <section class="site-overview sidebar-panel  sidebar-panel-active ">
+      <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+    
+    <img class="site-author-image" itemprop="image"
+        src="https://cenchaojun.github.io/cenchaojunblog/img/author.jpg"
+        alt="作者" />
+    
+    <p class="site-author-name" itemprop="name">作者</p>
+    <p class="site-description motion-element" itemprop="description"> 
+        简介</p>
+</div>
+
+      <nav class="site-state motion-element">
+    <div class="site-state-item site-state-posts">
+      <a href="https://cenchaojun.github.io/cenchaojunblog/post/">
+        <span class="site-state-item-count">4</span>
+        <span class="site-state-item-name">日志</span>
+      </a>
+    </div>
+    <div class="site-state-item site-state-categories">    
+        <a href="https://cenchaojun.github.io/cenchaojunblog/categories/">      
+         
+        <span class="site-state-item-count">3</span>
+        
+        <span class="site-state-item-name">分类</span>
+        
+        </a>
+    </div>
+
+    <div class="site-state-item site-state-tags">
+        <a href="https://cenchaojun.github.io/cenchaojunblog/tags/">
+         
+        <span class="site-state-item-count">4</span>
+        
+        <span class="site-state-item-name">标签</span>
+        </a>
+    </div>
+</nav>
+
+      
+<div class="feed-link motion-element">
+        
+        <a href=https://cenchaojun.github.io/cenchaojunblog/categories/index.xml rel="alternate" type="application/rss+xml" target="_blank">
+    <i class="fa fa-rss"></i>
+    RSS 订阅
+</a>
+</div>
+
+
+      
+<div class="links-of-author motion-element">
+    
+        <span class="links-of-author-item">
+        <a href="https://github.com/" target="_blank" title="GitHub">
+            <i class="fa fa-fw fa-github"></i>
+            GitHub
+        </a>
+        </span>
+    
+</div>
+
+
+      
+
+      
+    </section>
+    
   </div>
 </aside>
 
-    
-    
-<main class="main" role="main">
-    <article class="article article-categories article-type-list" itemscope="">
-        <header class="article-header">
-            <h1 itemprop="name" class="hidden-xs">Categories</h1>
-            <p class="text-muted hidden-xs">Total 2 categories</p>
-            <nav role="navigation" id="nav-main" class="okayNav">
-                <ul>
-                    <li><a href="https://example.com/categories">All</a></li>
-                    <li><a href="https://example.com/categories/syntax/">syntax</a></li>
-                    <li><a href="https://example.com/categories/themes/">themes</a></li>
-                </ul>
-            </nav>
-        </header>
-        
-        <div class="article-body">
-            <div class="panel panel-default b-no">
-                <div class="panel-heading" role="tab">
-                    <h3 class="panel-title">
-                        <a data-toggle="collapse" href="#collapse55152fd428afc5d73e8878d27d0b09c3" aria-expanded="true">
-                            <i class="icon icon-folder text-active"></i><i class="icon icon-folder-open text"></i>syntax
-                        </a>
-                        <small class="text-muted">(Total1 articles)</small>
-                    </h3>
-                </div>
-                <div id="collapse55152fd428afc5d73e8878d27d0b09c3" class="panel-collapse collapse in" role="tabpanel"
-                    aria-labelledby="headingsyntax ">
-                    <div class="panel-body">
-                        <div class="collection"><a href="https://example.com/2019/03/markdown-syntax/" class="collection-item" itemprop="url" target="_blank">
-    <time datetime="2019-03-11 00:00:00 &#43;0000 UTC" itemprop="datePublished" style="margin-right: 5px;">2019-03-11
-    </time>Markdown Syntax Guide
-</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="panel panel-default b-no">
-                <div class="panel-heading" role="tab">
-                    <h3 class="panel-title">
-                        <a data-toggle="collapse" href="#collapsefe021943dcda87150f590b3475afaded" aria-expanded="true">
-                            <i class="icon icon-folder text-active"></i><i class="icon icon-folder-open text"></i>themes
-                        </a>
-                        <small class="text-muted">(Total1 articles)</small>
-                    </h3>
-                </div>
-                <div id="collapsefe021943dcda87150f590b3475afaded" class="panel-collapse collapse in" role="tabpanel"
-                    aria-labelledby="headingthemes ">
-                    <div class="panel-body">
-                        <div class="collection"><a href="https://example.com/2019/03/markdown-syntax/" class="collection-item" itemprop="url" target="_blank">
-    <time datetime="2019-03-11 00:00:00 &#43;0000 UTC" itemprop="datePublished" style="margin-right: 5px;">2019-03-11
-    </time>Markdown Syntax Guide
-</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </article>
-</main><footer class="footer" itemscope itemtype="http://schema.org/WPFooter">
-<ul class="social-links">
-    <li><a href="https://github.com/xiaoheiAh" target="_blank" title="github" data-toggle=tooltip data-placement=top >
-            <i class="icon icon-github"></i></a></li>
-    <li><a href="https://example.com/index.xml" target="_blank" title="rss" data-toggle=tooltip data-placement=top >
-            <i class="icon icon-rss"></i></a></li>
-</ul>
-  <div class="copyright">
-    &copy;2017  -
-    2020
-    <div class="publishby">
-        Theme by <a href="https://github.com/xiaoheiAh" target="_blank"> xiaoheiAh </a>base on<a href="https://github.com/xiaoheiAh/hugo-theme-pure" target="_blank"> pure</a>.
+      </div>
+    </main>
+   
+    <footer id="footer" class="footer">
+      <div class="footer-inner">
+        <div class="copyright" >
+  <span itemprop="copyrightYear">  &copy; 
+  2017 - 2020</span>
+  <span class="with-love"><i class="fa fa-heart"></i></span>
+  <span class="author" itemprop="copyrightHolder">作者</span>
+</div>
+<div class="powered-by">
+  Powered by - <a class="theme-link" href="http://gohugo.io" target="_blank" title="hugo" >Hugo v0.68.3</a>
+</div>
+<div class="theme-info">
+  Theme by - <a class="theme-link" href="https://github.com/github-young/hugo-theme-next" target="_blank"> NexT.Gemini
+  </a>
+</div>
+<br />
+<div class="theme-info">
+  <i class="fa fa-user">
+  </i>
+  <span class="busuanzi-value" id="busuanzi_value_site_uv">
+  <span id="busuanzi_value_site_uv"></span>
+  </span>
+&nbsp;
+  <i class="fa fa-eye">
+  </i>
+  <span class="busuanzi-value" id="busuanzi_value_site_pv">
+  <span id="busuanzi_value_site_pv"></span>
+  </span>
+</div>
+
+
+      </div>
+    </footer>
+
+    <div class="back-to-top">
+      <i class="fa fa-arrow-up"></i>
+      <span id="scrollpercent"><span>0</span>%</span>
     </div>
   </div>
-</footer>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_SVG"></script>
+  
+
+<script type="text/javascript">
+  if (Object.prototype.toString.call(window.Promise) !== '[object Function]') {
+    window.Promise = null;
+  }
+</script>
+<script type="text/javascript" src="https://cenchaojun.github.io/cenchaojunblog/js/vendor/jquery/index.js?v=2.1.3"></script>
+<script type="text/javascript" src="https://cenchaojun.github.io/cenchaojunblog/js/vendor/fastclick/lib/fastclick.min.js?v=1.0.6"></script> 
+<script type="text/javascript" src="https://cenchaojun.github.io/cenchaojunblog/js/vendor/jquery_lazyload/jquery.lazyload.js?v=1.9.7"></script>
+<script type="text/javascript" src="https://cenchaojun.github.io/cenchaojunblog/js/vendor/velocity/velocity.min.js?v=1.2.1"></script>
+<script type="text/javascript" src="https://cenchaojun.github.io/cenchaojunblog/js/vendor/velocity/velocity.ui.min.js?v=1.2.1"></script>
+<script src="https://cenchaojun.github.io/cenchaojunblog/js/vendor/ua-parser-js/dist/ua-parser.min.js?v=0.7.9"></script>
+
+<script type="text/javascript" src="https://cenchaojun.github.io/cenchaojunblog/js/utils.js"></script>
+<script type="text/javascript" src="https://cenchaojun.github.io/cenchaojunblog/js/motion.js"></script>
+<script type="text/javascript" src="https://cenchaojun.github.io/cenchaojunblog/js/affix.js"></script>
+<script type="text/javascript" src="https://cenchaojun.github.io/cenchaojunblog/js/schemes/pisces.js"></script>
+
+<script type="text/javascript" src="https://cenchaojun.github.io/cenchaojunblog/js/bootstrap.js"></script>
+
+<script type="text/javascript" id="motion.page.archive">
+  $('.archive-year').velocity('transition.slideLeftIn');
+</script>
+
+<script type="text/javascript" src="https://cenchaojun.github.io/cenchaojunblog/js/search.js"></script>
 <script type="text/x-mathjax-config">
-    MathJax.Hub.Config({
-            showMathMenu: false, //disables context menu
-            tex2jax: {
-            inlineMath: [ ['$','$'], ['\\(','\\)'] ]
-           }
-    });
+  MathJax.Hub.Config({
+              extensions: ["tex2jax.js"],
+                  jax: ["input/TeX", "output/HTML-CSS"],
+                      tex2jax: {
+                                    inlineMath: [ ['$','$'] ],
+                                          displayMath: [ ['$$','$$'] ],
+                                                processEscapes: true
+                                                    },
+                                                        "HTML-CSS": { fonts: ["TeX"] }
+                                                          });
 </script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML' async></script>
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 
-
-<script src="https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.min.js"></script>
-<script>
-    window.jQuery || document.write('<script src="js/jquery.min.js"><\/script>')
-</script>
-<script type="text/javascript" src="https://cdn.staticfile.org/highlight.js/9.15.10/highlight.min.js"></script>
-<script type="text/javascript" src="https://cdn.staticfile.org/highlight.js/9.15.10/languages/python.min.js" defer></script>
-<script type="text/javascript" src="https://cdn.staticfile.org/highlight.js/9.15.10/languages/javascript.min.js" defer></script><script>
-    hljs.configure({
-        tabReplace: '    ', 
-        classPrefix: ''     
-        
-    })
-    hljs.initHighlightingOnLoad();
-</script>
-<script src="https://example.com/js/application.min.bdeb64b910570b6c41badc6a05b7afb0c8ad9efd8525de3c7257d59e786326a3.js"></script>
-<script src="https://example.com/js/plugin.min.51ff8c7317566f82259170fa36e09c4493adc9b9378b427a01ad3f017ebac7dd.js"></script>
-
-<script>
-    (function (window) {
-        var INSIGHT_CONFIG = {
-            TRANSLATION: {
-                POSTS: 'Posts',
-                PAGES: 'Pages',
-                CATEGORIES: 'Categories',
-                TAGS: 'Tags',
-                UNTITLED: '(Untitled)',
-            },
-            ROOT_URL: 'https:\/\/example.com\/',
-            CONTENT_URL: 'https:\/\/example.com\/\/searchindex.json ',
-        };
-        window.INSIGHT_CONFIG = INSIGHT_CONFIG;
-    })(window);
-</script>
-<script type="text/javascript" src="https://example.com/js/insight.min.a343cd9a5a7698336b28ef3a7c16a3a1b1d2d5fb17dc8ed04022bbe08cc5459073a15bdafa3a8a58cdd56080784bdd69fa70b1ae8597565c799c57ed00f0e120.js" defer></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.4.2/tocbot.min.js"></script>
-<script>
-    tocbot.init({
-        
-        tocSelector: '.js-toc',
-        
-        contentSelector: '.js-toc-content',
-        
-        headingSelector: 'h1, h2, h3',
-        
-        hasInnerContainers: true,
-    });
-</script>
-
-  </body>
+</body>
 </html>

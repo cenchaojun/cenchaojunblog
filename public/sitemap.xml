@@ -1,165 +1,62 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://example.com/categories/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.com/2019/03/markdown-syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.com/posts/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.com/series/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.com/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.com/categories/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.com/series/themes-guide/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/privacy/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.com/2019/03/rich-content/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/shortcodes/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.com/2019/03/placeholder-text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.com/2019/03/math-typesetting/</loc>
-    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/emoji/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.com/2019/03/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.com/about/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.com/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/index/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-</urlset>
+<search>
+    
+     <entry>
+        <title>Posts</title>
+        <url>https://cenchaojun.github.io/cenchaojunblog/post/</url>
+        <categories>
+          
+        </categories>
+        <tags>
+          
+        </tags>
+        <content type="html"> </content>
+    </entry>
+    
+     <entry>
+        <title>Readme</title>
+        <url>https://cenchaojun.github.io/cenchaojunblog/post/readme/</url>
+        <categories>
+          <category>分类名</category>
+        </categories>
+        <tags>
+          <tag>标签1</tag><tag>标签2</tag>
+        </tags>
+        <content type="html"> 这里的文本会出现在首页，即“阅读全文”之前。
+此处向下是正文文本。
+第1级标题是总标题。 正文的标题从第2级标题开始。
+第2级标题 第3级标题 第4级标题 第5级标题 一些示例 下面是一个 itemize 列表（你也可以把 - 换成 1.  来得到一个 enumerate 列表）：
+ 如要插入链接，请这样使用：你可以在这里学习使用markdown。 如要插图，请把图片放到 fig 文件夹，插图时这样使用：  如要插入 引用文字 或小段注解，请这样使用：  这是引用文字
+  如要插入 代码 ，请这样使用： 1 2 3 4 5  import numpy as npimport matplotlib.pyplot as plx = np.linspace(0, 2*np.pi, 100)y = np.sin(x)pl.plot(x, y)    一点吐槽 Hugo竟然不支持内嵌html语法，必须得用shortcode。。。太反人类了
+不过我发现了可以正常使用html的方法，参考这里。
+内嵌视频：   居中了吗？ 这个---表示画一条水平线，正文内容止步于此。
+</content>
+    </entry>
+    
+     <entry>
+        <title>Second</title>
+        <url>https://cenchaojun.github.io/cenchaojunblog/post/SecondPost/</url>
+        <categories>
+          <category>AnotherCategory</category>
+        </categories>
+        <tags>
+          <tag>Second Tags</tag>
+        </tags>
+        <content type="html"> second test 中文测试测试。
+ </content>
+    </entry>
+    
+     <entry>
+        <title>First</title>
+        <url>https://cenchaojun.github.io/cenchaojunblog/post/FirstPost/</url>
+        <categories>
+          <category>tech</category>
+        </categories>
+        <tags>
+          <tag>first</tag>
+        </tags>
+        <content type="html"> Test 1 ttest test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test testest test test test test test.
+\LaTeX
+ </content>
+    </entry>
+    
+</search>
