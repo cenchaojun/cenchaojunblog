@@ -6,37 +6,10 @@
     <description>Recent content on 主标题</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 30 Dec 2019 15:25:51 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 15 Dec 2019 18:34:46 +0800</lastBuildDate>
     
 	<atom:link href="https://cenchaojun.github.io/cenchaojunblog/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Readme</title>
-      <link>https://cenchaojun.github.io/cenchaojunblog/post/readme/</link>
-      <pubDate>Mon, 30 Dec 2019 15:25:51 +0800</pubDate>
-      
-      <guid>https://cenchaojun.github.io/cenchaojunblog/post/readme/</guid>
-      <description>&lt;p&gt;这里的文本会出现在首页，即“阅读全文”之前。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Second</title>
-      <link>https://cenchaojun.github.io/cenchaojunblog/post/SecondPost/</link>
-      <pubDate>Sun, 15 Dec 2019 18:34:53 +0800</pubDate>
-      
-      <guid>https://cenchaojun.github.io/cenchaojunblog/post/SecondPost/</guid>
-      <description>second test 中文测试测试。</description>
-    </item>
-    
-    <item>
-      <title>First</title>
-      <link>https://cenchaojun.github.io/cenchaojunblog/post/FirstPost/</link>
-      <pubDate>Sun, 15 Dec 2019 18:34:46 +0800</pubDate>
-      
-      <guid>https://cenchaojun.github.io/cenchaojunblog/post/FirstPost/</guid>
-      <description>Test 1 ttest test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test testest test test test test test.</description>
-    </item>
     
     <item>
       <title>SSDS代码记录</title>

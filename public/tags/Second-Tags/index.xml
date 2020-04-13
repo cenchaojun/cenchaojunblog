@@ -6,19 +6,10 @@
     <description>Recent content in Second Tags on 主标题</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 15 Dec 2019 18:34:53 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 15 Dec 2019 18:34:46 +0800</lastBuildDate>
     
 	<atom:link href="https://cenchaojun.github.io/cenchaojunblog/tags/Second-Tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Second</title>
-      <link>https://cenchaojun.github.io/cenchaojunblog/post/SecondPost/</link>
-      <pubDate>Sun, 15 Dec 2019 18:34:53 +0800</pubDate>
-      
-      <guid>https://cenchaojun.github.io/cenchaojunblog/post/SecondPost/</guid>
-      <description>second test 中文测试测试。</description>
-    </item>
     
     <item>
       <title>SSDS代码记录</title>
