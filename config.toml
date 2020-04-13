@@ -12,9 +12,9 @@ PaginatePath =  "p"
 Paginate = 8
 
 [Params]
-  Introduce = "简介"
+  Introduce = "啥也不会的CV researcher"
   Description = "描述"
-  Keywords =  "关键词1，关键词2"
+  Keywords =  "cv，deep learning"
   Subtitle = "努力努力"
   Imglogo = "/img/logo.png"
   AuthorImg = "/img/author.jpg" # options: false
