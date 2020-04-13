@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://cenchaojun.github.io/cenchaojunblog/categories/AnotherCategory/</loc>
-    <lastmod>2020-04-13T15:25:51+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://cenchaojun.github.io/cenchaojunblog/categories/</loc>
     <lastmod>2020-04-13T15:25:51+08:00</lastmod>
   </url>
@@ -18,12 +13,12 @@
   </url>
   
   <url>
-    <loc>https://cenchaojun.github.io/cenchaojunblog/post/</loc>
+    <loc>https://cenchaojun.github.io/cenchaojunblog/categories/CV/</loc>
     <lastmod>2020-04-13T15:25:51+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cenchaojun.github.io/cenchaojunblog/tags/Second-Tags/</loc>
+    <loc>https://cenchaojun.github.io/cenchaojunblog/post/</loc>
     <lastmod>2020-04-13T15:25:51+08:00</lastmod>
   </url>
   
@@ -34,6 +29,11 @@
   
   <url>
     <loc>https://cenchaojun.github.io/cenchaojunblog/tags/</loc>
+    <lastmod>2020-04-13T15:25:51+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cenchaojun.github.io/cenchaojunblog/tags/%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2020-04-13T15:25:51+08:00</lastmod>
   </url>
   
