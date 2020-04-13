@@ -6,7 +6,7 @@
     <description>Recent content in Posts on cenchaojun bog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 22 Dec 2019 15:25:51 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2020 15:25:51 +0800</lastBuildDate>
     
 	<atom:link href="https://cenchaojun.github.io/cenchaojunblog/post/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>SSDS代码记录</title>
       <link>https://cenchaojun.github.io/cenchaojunblog/post/SSDS%E4%BB%A3%E7%A0%81%E8%AE%B0%E5%BD%95/</link>
-      <pubDate>Sun, 22 Dec 2019 15:25:51 +0800</pubDate>
+      <pubDate>Mon, 13 Apr 2020 15:25:51 +0800</pubDate>
       
       <guid>https://cenchaojun.github.io/cenchaojunblog/post/SSDS%E4%BB%A3%E7%A0%81%E8%AE%B0%E5%BD%95/</guid>
       <description>SSDS代码运行的记录 代码连接：SSDS 代码 运行环境需要自己设置一下自己的GPU，要不然容易报错CUDA 1 os.environ[&amp;#34;CUDA_VISIBLE_DEVICES&amp;#34;] = &amp;#34;0&amp;#34; 按照这个教程走就可以了，就没</description>
