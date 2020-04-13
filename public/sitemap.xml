@@ -16,10 +16,10 @@
         <title>SSDS代码记录</title>
         <url>https://cenchaojun.github.io/cenchaojunblog/post/SSDS%E4%BB%A3%E7%A0%81%E8%AE%B0%E5%BD%95/</url>
         <categories>
-          <category>AnotherCategory</category>
+          <category>CV</category>
         </categories>
         <tags>
-          <tag>Second Tags</tag>
+          <tag>学习</tag>
         </tags>
         <content type="html"> SSDS代码运行的记录 代码连接：SSDS 代码   运行环境需要自己设置一下自己的GPU，要不然容易报错CUDA
 1  os.environ[&amp;#34;CUDA_VISIBLE_DEVICES&amp;#34;] = &amp;#34;0&amp;#34;      按照这个教程走就可以了，就没有什么大的问题 运行结果   </content>
