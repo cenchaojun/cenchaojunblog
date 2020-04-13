@@ -6,7 +6,6 @@
     <description>Recent content in Categories on cenchaojun bog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 15 Dec 2019 18:34:46 +0800</lastBuildDate>
     
 	<atom:link href="https://cenchaojun.github.io/cenchaojunblog/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +13,7 @@
     <item>
       <title>AnotherCategory</title>
       <link>https://cenchaojun.github.io/cenchaojunblog/categories/AnotherCategory/</link>
-      <pubDate>Sun, 15 Dec 2019 18:34:46 +0800</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://cenchaojun.github.io/cenchaojunblog/categories/AnotherCategory/</guid>
       <description></description>
