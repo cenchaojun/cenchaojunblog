@@ -1,4 +1,4 @@
-Title =  "主标题"
+Title =  "cenchaojun bog"
 BaseUrl = "https://cenchaojun.github.io/cenchaojunblog/"
 Theme =  "hugo-theme-next"
 
@@ -15,7 +15,7 @@ Paginate = 8
   Introduce = "简介"
   Description = "描述"
   Keywords =  "关键词1，关键词2"
-  Subtitle = "副标题"
+  Subtitle = "努力努力"
   Imglogo = "/img/logo.png"
   AuthorImg = "/img/author.jpg" # options: false
   DateFormat = "2006-01-02"
@@ -24,7 +24,7 @@ Paginate = 8
   Fancybox = true
 
 [Author]
-  Name = "作者"
+  Name = "cen"
 
 [Params.Share]
   Baidu = false
