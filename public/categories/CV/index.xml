@@ -20,5 +20,14 @@
       <description>SSDS代码运行的记录 代码连接：SSDS 代码 运行环境需要自己设置一下自己的GPU，要不然容易报错CUDA 1 os.environ[&amp;#34;CUDA_VISIBLE_DEVICES&amp;#34;] = &amp;#34;0&amp;#34; 按照这个教程走就可以了，就没</description>
     </item>
     
+    <item>
+      <title>博客样板</title>
+      <link>https://cenchaojun.github.io/cenchaojunblog/post/%E5%8D%9A%E5%AE%A2%E6%A0%B7%E6%9D%BF/</link>
+      <pubDate>Mon, 13 Apr 2020 15:25:51 +0800</pubDate>
+      
+      <guid>https://cenchaojun.github.io/cenchaojunblog/post/%E5%8D%9A%E5%AE%A2%E6%A0%B7%E6%9D%BF/</guid>
+      <description>博客样板</description>
+    </item>
+    
   </channel>
 </rss>

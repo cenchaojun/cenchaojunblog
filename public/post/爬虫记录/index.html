@@ -4,22 +4,22 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" /> 
-    <title>Tags - cenchaojun bog</title>
+    <title>爬虫记录 - cenchaojun bog</title>
     <meta name="keywords" content="cv，deep learning">
     
-    <meta property="og:title" content="Tags">
+    <meta property="og:title" content="爬虫记录">
     <meta property="og:site_name" content="cenchaojun bog">
     <meta property="og:image" content="/img/author.jpg"> 
-    <meta name="title" content="Tags - cenchaojun bog" />
+    <meta name="title" content="爬虫记录 - cenchaojun bog" />
     <meta name="description" content="描述"> 
-    <link rel="alternate" href="https://cenchaojun.github.io/cenchaojunblog/tags/" title="cenchaojun bog" type="application/rss+xml" />
+    <link rel="alternate" href="https://cenchaojun.github.io/cenchaojunblog/post/%E7%88%AC%E8%99%AB%E8%AE%B0%E5%BD%95/" title="cenchaojun bog" type="application/rss+xml" />
     
     <link rel="shortcut icon" href="https://cenchaojun.github.io/cenchaojunblog/img/github.ico" />
     <link rel="apple-touch-icon" href="https://cenchaojun.github.io/cenchaojunblog/img/github.png" />
     <link rel="apple-touch-icon-precomposed" href="https://cenchaojun.github.io/cenchaojunblog/img/github.png" />
     
     <link href="https://cenchaojun.github.io/cenchaojunblog/js/vendor/font-awesome/css/font-awesome.min.css?v=4.6.2" rel="stylesheet" type="text/css" />
-    
+    <link href="https://cenchaojun.github.io/cenchaojunblog/js/vendor/fancybox/jquery.fancybox.css?v=2.1.5" rel="stylesheet" type="text/css" />
     <link href="https://cenchaojun.github.io/cenchaojunblog/css/main.css" rel="stylesheet" type="text/css" />
     <link href="https://cenchaojun.github.io/cenchaojunblog/css/syntax.css" rel="stylesheet" type="text/css" />
     <script type="text/javascript" id="hexo.configuration">
@@ -27,14 +27,14 @@
   var CONFIG = {
     scheme: 'Pisces',
     sidebar: {"position":"left","display":"post"},
-    fancybox: false, 
+     fancybox: true, 
     motion: true
   };
 </script>
 </head>
 
 <body itemscope itemtype="http://schema.org/WebPage" lang="zh-Hans">
-<div class="container one-collumn sidebar-position-left   ">
+<div class="container one-collumn sidebar-position-left page-home  ">
     <div class="headband"></div>
 
     <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
@@ -80,7 +80,7 @@
           </a>
         </li>
       
-        <li class="menu-item menu-item-active">
+        <li class="menu-item ">
           <a href="https://cenchaojun.github.io/cenchaojunblog/tags/" rel="section">
               <i class="menu-item-icon fa fa-fw fa-tags"></i> <br />标签
           </a>
@@ -117,25 +117,116 @@
             
 <div class="content-wrap">
     <div id="content" class="content">
-<div id="posts" class="posts-expand">
-  <div class="post-block page" style="opacity: 1; display: block;">
+<section id="posts" class="posts-expand">
+  <article class="post post-type-normal " itemscope itemtype="http://schema.org/Article">
+    <div class="post-block" style="opacity: 1; display: block;">
+    <header class="post-header">
+      <h1 class="post-title" itemprop="name headline">
+        <a class="post-title-link" href="https://cenchaojun.github.io/cenchaojunblog/post/%E7%88%AC%E8%99%AB%E8%AE%B0%E5%BD%95/" itemprop="url">
+        爬虫记录
+        </a>
+      </h1>
+      <div class="post-meta">
+      <span class="post-time">
+<span class="post-meta-item-icon">
+    <i class="fa fa-calendar-o"></i>
+</span>
+<span class="post-meta-item-text">时间：</span>
+<time itemprop="dateCreated" datetime="2016-03-22T13:04:35+08:00" content="2020-04-16">
+    2020-04-16
+</time>
+</span> 
+      
+
+  <span class="post-category" >
+  &nbsp; | &nbsp;
+  <span class="post-meta-item-icon">
+    <i class="fa fa-folder-o"></i>
+  </span>
+  <span class="post-meta-item-text">分类：</span>
+  
+    <span itemprop="about" itemscope itemtype="https://schema.org/Thing">
+      <a href="https://cenchaojun.github.io/cenchaojunblog/categories/%E7%88%AC%E8%99%AB" itemprop="url" rel="index">
+        <span itemprop="name">爬虫</span>
+      </a>
+      &nbsp; 
+    </span>
+  
+</span>
+
+
+
+       <span>
+&nbsp; | &nbsp;
+<span class="post-meta-item-icon">
+    <i class="fa fa-eye"></i>
+</span>
+
+<span id="busuanzi_value_page_pv"></span> 阅读
+</span>
+
+      </div>
+    </header>
+    <div class="post-body" itemprop="articleBody">
+    <h2 id="爬虫代码编写">爬虫代码编写</h2>
+<h3 id="代码连接a-hrefhttpsgithubcomyqyaossd_pytorch-target_blank爬虫代码a">代码连接：<a href="https://github.com/yqyao/SSD_Pytorch" target="_blank">爬虫代码</a></h3>
+<ul>
+<li>
+<p>这次爬虫写了一个类进行爬虫的，不再像之前就只写函数，感觉好不错</p>
+</li>
+<li>
+<p>注意：</p>
+<p>1.使用不同的headers</p>
+<p>2.记得r.close()</p>
+<p>3.不用连续的爬，对服务器造成压力。这样也可以减少自己的ip被封。之后也就不用花钱或者找代理了</p>
+<p>4.要使用try语句，这样不会中断</p>
+</li>
+</ul>
+
+    </div>
+    <footer class="post-footer">
+     
+ 
+<div class="post-tags">
     
-      
-      
-       <div class="tag-cloud">
-        <div class="tag-cloud-title">
-            目前共计 1 个标签
-        </div>
-        <div class="tag-cloud-tags">
-            
-             <a href="https://cenchaojun.github.io/cenchaojunblog/tags/%E5%AD%A6%E4%B9%A0" style="font-size: 24.5px; color: #212121">学习</a>
-             <span class="tag-list-count"><sup>3</sup></span>
-             
-        </div>
-       </div>
-      
-  </div>
+    <p>~~By: cen~~</p>
+    
 </div>
+
+
+
+     
+ 
+<div class="post-tags">
+    
+    <a href="https://cenchaojun.github.io/cenchaojunblog/tags/%E5%AD%A6%E4%B9%A0" rel="tag" title="学习">#学习#</a>
+    
+</div>
+
+
+
+     <div class="post-nav">
+    <div class="post-nav-next post-nav-item">
+    
+    </div>
+
+    <div class="post-nav-prev post-nav-item">
+    
+        <a href="https://cenchaojun.github.io/cenchaojunblog/post/SSDS%E4%BB%A3%E7%A0%81%E8%AE%B0%E5%BD%95/" rel="prev" title="SSDS代码记录">
+        SSDS代码记录 <i class="fa fa-chevron-right"></i>
+        </a>
+    
+    </div>
+</div>
+      
+     
+     
+     
+     
+    </footer>
+  </div>
+  </article>
+</section>
 </div>
 </div>
 
@@ -193,7 +284,7 @@
       
 <div class="feed-link motion-element">
         
-        <a href=https://cenchaojun.github.io/cenchaojunblog/tags/index.xml rel="alternate" type="application/rss+xml" target="_blank">
+        <a href= rel="alternate" type="application/rss+xml" target="_blank">
     <i class="fa fa-rss"></i>
     RSS 订阅
 </a>
@@ -278,16 +369,18 @@
 <script type="text/javascript" src="https://cenchaojun.github.io/cenchaojunblog/js/vendor/velocity/velocity.ui.min.js?v=1.2.1"></script>
 <script src="https://cenchaojun.github.io/cenchaojunblog/js/vendor/ua-parser-js/dist/ua-parser.min.js?v=0.7.9"></script>
 
+<script src="https://cenchaojun.github.io/cenchaojunblog/js/vendor/fancybox/jquery.fancybox.pack.js?v=2.1.5"></script>
+
 <script type="text/javascript" src="https://cenchaojun.github.io/cenchaojunblog/js/utils.js"></script>
 <script type="text/javascript" src="https://cenchaojun.github.io/cenchaojunblog/js/motion.js"></script>
 <script type="text/javascript" src="https://cenchaojun.github.io/cenchaojunblog/js/affix.js"></script>
 <script type="text/javascript" src="https://cenchaojun.github.io/cenchaojunblog/js/schemes/pisces.js"></script>
 
-<script type="text/javascript" src="https://cenchaojun.github.io/cenchaojunblog/js/bootstrap.js"></script>
+<script type="text/javascript" src="https://cenchaojun.github.io/cenchaojunblog/js/scrollspy.js"></script>
+<script type="text/javascript" src="https://cenchaojun.github.io/cenchaojunblog/js/post-details.js"></script>
+<script type="text/javascript" src="https://cenchaojun.github.io/cenchaojunblog/js/toc.js"></script>
 
-<script type="text/javascript" id="motion.page.archive">
-  $('.archive-year').velocity('transition.slideLeftIn');
-</script>
+<script type="text/javascript" src="https://cenchaojun.github.io/cenchaojunblog/js/bootstrap.js"></script>
 
 <script type="text/javascript" src="https://cenchaojun.github.io/cenchaojunblog/js/search.js"></script>
 <script type="text/x-mathjax-config">
