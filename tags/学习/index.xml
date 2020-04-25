@@ -6,10 +6,19 @@
     <description>Recent content in 学习 on cenchaojun bog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 13 Apr 2020 15:25:51 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2020 15:25:51 +0800</lastBuildDate>
     
 	<atom:link href="https://cenchaojun.github.io/cenchaojunblog/tags/%E5%AD%A6%E4%B9%A0/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>爬虫记录</title>
+      <link>https://cenchaojun.github.io/cenchaojunblog/post/%E7%88%AC%E8%99%AB%E8%AE%B0%E5%BD%95/</link>
+      <pubDate>Thu, 16 Apr 2020 15:25:51 +0800</pubDate>
+      
+      <guid>https://cenchaojun.github.io/cenchaojunblog/post/%E7%88%AC%E8%99%AB%E8%AE%B0%E5%BD%95/</guid>
+      <description>爬虫代码编写 代码连接：爬虫代码 这次爬虫写了一个类进行爬虫的，不再像之前就只写函数，感觉好不错 注意： 1.使用不同的headers 2.记得r.c</description>
+    </item>
     
     <item>
       <title>SSDS代码记录</title>
@@ -18,6 +27,15 @@
       
       <guid>https://cenchaojun.github.io/cenchaojunblog/post/SSDS%E4%BB%A3%E7%A0%81%E8%AE%B0%E5%BD%95/</guid>
       <description>SSDS代码运行的记录 代码连接：SSDS 代码 运行环境需要自己设置一下自己的GPU，要不然容易报错CUDA 1 os.environ[&amp;#34;CUDA_VISIBLE_DEVICES&amp;#34;] = &amp;#34;0&amp;#34; 按照这个教程走就可以了，就没</description>
+    </item>
+    
+    <item>
+      <title>博客样板</title>
+      <link>https://cenchaojun.github.io/cenchaojunblog/post/%E5%8D%9A%E5%AE%A2%E6%A0%B7%E6%9D%BF/</link>
+      <pubDate>Mon, 13 Apr 2020 15:25:51 +0800</pubDate>
+      
+      <guid>https://cenchaojun.github.io/cenchaojunblog/post/%E5%8D%9A%E5%AE%A2%E6%A0%B7%E6%9D%BF/</guid>
+      <description>博客样板</description>
     </item>
     
   </channel>

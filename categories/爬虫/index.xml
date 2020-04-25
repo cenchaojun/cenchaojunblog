@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>爬虫 on cenchaojun bog</title>
+    <link>https://cenchaojun.github.io/cenchaojunblog/categories/%E7%88%AC%E8%99%AB/</link>
+    <description>Recent content in 爬虫 on cenchaojun bog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Thu, 16 Apr 2020 15:25:51 +0800</lastBuildDate>
+    
+	<atom:link href="https://cenchaojun.github.io/cenchaojunblog/categories/%E7%88%AC%E8%99%AB/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>爬虫记录</title>
+      <link>https://cenchaojun.github.io/cenchaojunblog/post/%E7%88%AC%E8%99%AB%E8%AE%B0%E5%BD%95/</link>
+      <pubDate>Thu, 16 Apr 2020 15:25:51 +0800</pubDate>
+      
+      <guid>https://cenchaojun.github.io/cenchaojunblog/post/%E7%88%AC%E8%99%AB%E8%AE%B0%E5%BD%95/</guid>
+      <description>爬虫代码编写 代码连接：爬虫代码 这次爬虫写了一个类进行爬虫的，不再像之前就只写函数，感觉好不错 注意： 1.使用不同的headers 2.记得r.c</description>
+    </item>
+    
+  </channel>
+</rss>
