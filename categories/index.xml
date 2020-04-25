@@ -6,19 +6,10 @@
     <description>Recent content in Categories on cenchaojun bog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 25 Apr 2020 15:25:51 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2020 15:25:51 +0800</lastBuildDate>
     
 	<atom:link href="https://cenchaojun.github.io/cenchaojunblog/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>CV</title>
-      <link>https://cenchaojun.github.io/cenchaojunblog/categories/CV/</link>
-      <pubDate>Sat, 25 Apr 2020 15:25:51 +0800</pubDate>
-      
-      <guid>https://cenchaojun.github.io/cenchaojunblog/categories/CV/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>爬虫</title>
@@ -26,6 +17,15 @@
       <pubDate>Thu, 16 Apr 2020 15:25:51 +0800</pubDate>
       
       <guid>https://cenchaojun.github.io/cenchaojunblog/categories/%E7%88%AC%E8%99%AB/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CV</title>
+      <link>https://cenchaojun.github.io/cenchaojunblog/categories/CV/</link>
+      <pubDate>Mon, 13 Apr 2020 15:25:51 +0800</pubDate>
+      
+      <guid>https://cenchaojun.github.io/cenchaojunblog/categories/CV/</guid>
       <description></description>
     </item>
     
