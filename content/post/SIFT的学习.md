@@ -1,4 +1,5 @@
-title = "SIFT的浅学"
++++
+title = "SIFT的学习"
 
 date = 2020-04-25T15:25:51+08:00
 
@@ -9,9 +10,7 @@ draft = false
 
 +++
 
-## SIFT的浅学
-
-
+## SIFT的学习
 
 SIFT的学习
 
