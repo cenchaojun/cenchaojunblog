@@ -49,6 +49,6 @@ plt.imshow(img3),plt.show()
 
 结果图：
 
-![sift玉米图像结果图](https://github.com/cenchaojun/cenchaojunblog/tree/develop/content/fig/sift玉米图像结果图.PNG)
+![sift玉米图像结果图](../fig/sift玉米图像结果图.PNG)
 
 但是吧，我也没看出来，能不能检测玉米雄穗，也不知道检测的好不好~但是我感觉吧，检测的很不好~
