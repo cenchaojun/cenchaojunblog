@@ -184,11 +184,9 @@
 </div></li>
 </ul>
 <hr>
+<p>按照这个教程走就可以了，就没有什么大的问题运行结果</p>
+<p><img src="https://github.com/cenchaojun/cenchaojunblog/tree/develop/content/fig/%E8%AE%AD%E7%BB%83%E8%BF%87%E7%A8%8B.png" alt="训练过程">虽然照着这个教程可以运行了，但是在换backbone的时候，发现自己找不到预训练的网络，而如果不用预训练的网络的时候，loss就容易出现nan值，根本没法训练，就算你调再小的学习率也还是不行的，想自己找原因，但是自己的实力那么菜~~哈哈，还好找到的这个大佬的邮箱，向他发了询问的邮件，大佬说可以代码有将yolov3的预训练，于是乎找了一下，果然在convert_darknet.py里面有的代码，而且也能看懂，但是我找了一下import model里面有yolo，我靠，这没看到呀，咋整~于是乎灵光一闪，想到可能在其他仓库里面，果不其然，在yolov3里面找到这个权重的转换，但是还不知道能不能实现出来~ 所有的仓库都需要执行sh ./make.sh 一下，要不然找不到相关的包。结果是可以运行的，也找到了mobilenetV2的预训练模型。</p>
 <ul>
-<li>按照这个教程走就可以了，就没有什么大的问题</li>
-<li>运行结果</li>
-<li><img src="https://github.com/cenchaojun/cenchaojunblog/tree/develop/content/fig/%E8%AE%AD%E7%BB%83%E8%BF%87%E7%A8%8B.png" alt="训练过程"></li>
-<li>虽然照着这个教程可以运行了，但是在换backbone的时候，发现自己找不到预训练的网络，而如果不用预训练的网络的时候，loss就容易出现nan值，根本没法训练，就算你调再小的学习率也还是不行的，想自己找原因，但是自己的实力那么菜~~哈哈，还好找到的这个大佬的邮箱，向他发了询问的邮件，大佬说可以代码有将yolov3的预训练，于是乎找了一下，果然在convert_darknet.py里面有的代码，而且也能看懂，但是我找了一下import model里面有yolo，我靠，这没看到呀，咋整~于是乎灵光一闪，想到可能在其他仓库里面，果不其然，在yolov3里面找到这个权重的转换，但是还不知道能不能实现出来~ 所有的仓库都需要执行sh ./make.sh 一下，要不然找不到相关的包。结果是可以运行的，也找到了mobilenetV2的预训练模型。</li>
 <li>难点：现在mobilenetV3已经出来了，而且出来好久了，确实要实现这个代码了。加油~</li>
 </ul>
 
@@ -225,8 +223,8 @@
 
     <div class="post-nav-prev post-nav-item">
     
-        <a href="https://cenchaojun.github.io/cenchaojunblog/about/" rel="prev" title="关于">
-        关于 <i class="fa fa-chevron-right"></i>
+        <a href="https://cenchaojun.github.io/cenchaojunblog/post/SIFT%E7%9A%84%E5%AD%A6%E4%B9%A0/" rel="prev" title="">
+         <i class="fa fa-chevron-right"></i>
         </a>
     
     </div>

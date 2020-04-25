@@ -1,5 +1,4 @@
-+++
-title = "SIFT的学习"
+title = "SIFT的浅学"
 
 date = 2020-04-25T15:25:51+08:00
 
@@ -10,7 +9,9 @@ draft = false
 
 +++
 
-## SIFT的学习
+## SIFT的浅学
+
+
 
 SIFT的学习
 
@@ -48,6 +49,6 @@ plt.imshow(img3),plt.show()
 
 结果图：
 
-![sift玉米图像结果图](H:\temp\hugo\sites\blog\content\fig\sift玉米图像结果图.PNG)
+![sift玉米图像结果图](https://github.com/cenchaojun/cenchaojunblog/tree/develop/content/fig/sift玉米图像结果图.PNG)
 
 但是吧，我也没看出来，能不能检测玉米雄穗，也不知道检测的好不好~但是我感觉吧，检测的很不好~

@@ -6,19 +6,10 @@
     <description>Recent content on cenchaojun bog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 25 Apr 2020 15:25:51 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2020 15:25:51 +0800</lastBuildDate>
     
 	<atom:link href="https://cenchaojun.github.io/cenchaojunblog/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>SIFT的学习</title>
-      <link>https://cenchaojun.github.io/cenchaojunblog/post/SIFT%E7%9A%84%E5%AD%A6%E4%B9%A0/</link>
-      <pubDate>Sat, 25 Apr 2020 15:25:51 +0800</pubDate>
-      
-      <guid>https://cenchaojun.github.io/cenchaojunblog/post/SIFT%E7%9A%84%E5%AD%A6%E4%B9%A0/</guid>
-      <description>SIFT的学习 SIFT的学习 理论我就不多说了，我自己听了一下午，也没听懂，反正挺复杂的，我就是想试试效果。做个对比实验 1 2 3 4 5 6 7 8 9 10 11</description>
-    </item>
     
     <item>
       <title>爬虫记录</title>
@@ -36,6 +27,15 @@
       
       <guid>https://cenchaojun.github.io/cenchaojunblog/post/SSDS%E4%BB%A3%E7%A0%81%E8%AE%B0%E5%BD%95/</guid>
       <description>SSDS代码运行的记录 代码连接：SSDS 代码 运行环境需要自己设置一下自己的GPU，要不然容易报错CUDA 1 os.environ[&amp;#34;CUDA_VISIBLE_DEVICES&amp;#34;] = &amp;#34;0&amp;#34; 按照这个教程走就可以了，就没</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://cenchaojun.github.io/cenchaojunblog/post/SIFT%E7%9A%84%E5%AD%A6%E4%B9%A0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cenchaojun.github.io/cenchaojunblog/post/SIFT%E7%9A%84%E5%AD%A6%E4%B9%A0/</guid>
+      <description>title = &amp;ldquo;SIFT的浅学&amp;rdquo; date = 2020-04-25T15:25:51+08:00 categories = [&amp;ldquo;CV&amp;rdquo;] tags = [&amp;ldquo;学习&amp;rdquo;] postauthor = [&amp;ldquo;cen&amp;rdquo;] draft = false +++ SIFT的浅学 SIFT的学习</description>
     </item>
     
     <item>
